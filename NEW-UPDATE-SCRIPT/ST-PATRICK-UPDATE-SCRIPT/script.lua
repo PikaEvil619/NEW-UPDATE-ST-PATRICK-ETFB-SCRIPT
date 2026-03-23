@@ -1,5 +1,5 @@
 task.spawn(function()
-    local library = loadstring(game:HttpGet("https://pastebin.com/eBwRcRgp"))()
+    local library = loadstring(game:HttpGet("https://pastebin.com/raw/UahpgJsx"))()
 end)
 task.wait(0.2)
 
